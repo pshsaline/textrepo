@@ -12,3 +12,5 @@ The webpage will comprised of the following:
 3. La Familia
 4. My Students
 5. My Work
+
+[My GitHub Repository](https://github.com/atlmendoza/cs3project)
